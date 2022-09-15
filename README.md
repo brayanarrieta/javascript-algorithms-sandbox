@@ -1,2 +1,1 @@
-# javascript-algorithms
-Javascript Algorithms for interviews
+# javascript-interview-sandbox
